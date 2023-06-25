@@ -45,13 +45,17 @@ Fuzzer은 프로그램이 잘 실행되는지 확인하기 위한 다른 프로�
 
 <img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/22467f4c-0518-4184-8c91-2a22f8d66de9.png/">
 
+위의 예시에서는 3명의 강사가 각각 3번의 수업 시간이 가능한 Json 파일을 만듭니다.
+
 <img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/a45c7412-d3e4-41c6-afd1-712b000c1f60.png/">
 
 
 참고 사항
 
 json 파일의 경로는 프로그램의 파일과 같은 디렉토리에 위치해야 하며 tutor.csv 파일은 같은 폴더에 없어야 만들어 집니다.
+
 프로그램을 실행 할 때 제대로 된 인자를 입력하지 않으면 실행되지 않습니다. 인자 개수를 확인해주세요.
+
 fuzzer의 입력값을 줄 때 기간을 길게 설정하고 수업 수가 적으면 수업이 이어진 json 파일이 나올 확률이 낮아집니다.
 
 
