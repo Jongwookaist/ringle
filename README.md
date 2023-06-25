@@ -23,16 +23,16 @@ slot id, 시작 시간, 강사 ID, 강사 이름
 
 실행 예시 1
 
-![image](https://github.com/Jongwookaist/ringle/assets/96780862/b20e7767-48d5-4e8c-9779-5b9ab08c90b2)
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/b20e7767-48d5-4e8c-9779-5b9ab08c90b2.png/">
 
 결과 CSV 파일
 
-![image](https://github.com/Jongwookaist/ringle/assets/96780862/1b13a22f-aeb9-4b68-b476-ddf50483329c)
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/1b13a22f-aeb9-4b68-b476-ddf50483329c.png/">
 
 실행 예시 2
-
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
 ![image](https://github.com/Jongwookaist/ringle/assets/96780862/321a4911-ef6c-40af-8a65-b35e177e6f60)
-
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
 ![image](https://github.com/Jongwookaist/ringle/assets/96780862/db4c7895-b12b-441b-9605-6500c7c92a17)
 
 (실행 예시2는 fuzzer을 통해 만든 sample.json 파일을 사용함)
@@ -40,10 +40,10 @@ slot id, 시작 시간, 강사 ID, 강사 이름
 
 Fuzzer은 프로그램이 잘 실행되는지 확인하기 위한 다른 프로그램으로 시간 범위(start,end) 와 강사 수, 수업 수를 입력하면 각 강사마다 start 와 end 사이에
 수업 수 만큼 정보를 가진 sample.json 파일을 만듭니다.
-
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
 ![image](https://github.com/Jongwookaist/ringle/assets/96780862/1348c044-2516-4bd1-b134-a235e91b40df)
 
-
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
 ![image](https://github.com/Jongwookaist/ringle/assets/96780862/d0be2f3f-6e0b-4206-86fb-4e54afa17c71)
 
 
