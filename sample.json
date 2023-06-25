@@ -1,0 +1,63 @@
+{
+    "tutors": [
+        {
+            "id": "t1",
+            "name": "Tutor 1"
+        },
+        {
+            "id": "t2",
+            "name": "Tutor 2"
+        },
+        {
+            "id": "t3",
+            "name": "Tutor 3"
+        }
+    ],
+    "slots": [
+        {
+            "id": "s1",
+            "start_time": "2023-06-07T21:30:00Z",
+            "tutor_id": "t1"
+        },
+        {
+            "id": "s2",
+            "start_time": "2023-06-07T22:30:00Z",
+            "tutor_id": "t1"
+        },
+        {
+            "id": "s3",
+            "start_time": "2023-06-09T00:30:00Z",
+            "tutor_id": "t1"
+        },
+        {
+            "id": "s4",
+            "start_time": "2023-06-08T09:30:00Z",
+            "tutor_id": "t2"
+        },
+        {
+            "id": "s5",
+            "start_time": "2023-06-07T14:00:00Z",
+            "tutor_id": "t2"
+        },
+        {
+            "id": "s6",
+            "start_time": "2023-06-08T13:30:00Z",
+            "tutor_id": "t2"
+        },
+        {
+            "id": "s7",
+            "start_time": "2023-06-08T05:00:00Z",
+            "tutor_id": "t3"
+        },
+        {
+            "id": "s8",
+            "start_time": "2023-06-08T04:30:00Z",
+            "tutor_id": "t3"
+        },
+        {
+            "id": "s9",
+            "start_time": "2023-06-07T20:30:00Z",
+            "tutor_id": "t3"
+        }
+    ]
+}
