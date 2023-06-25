@@ -32,6 +32,7 @@ slot id, 시작 시간, 강사 ID, 강사 이름
 
 
 실행 예시 2
+
 <img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/d1f512aa-fb19-4c27-ba91-77aba14c6e5a.png/">
 
 <img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/4aa00d12-a89c-47de-a8d0-5dc23854959f.png/">
