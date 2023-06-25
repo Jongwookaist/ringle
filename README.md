@@ -11,8 +11,8 @@
 
 샘플 Json file
 
-<img width="80" src="https://github.com/Jongwookaist/ringle/assets/96780862/70a9f308-6193-428a-b4aa-49f91d9a415b.png">
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
+
 Json 파일의 경우 강사의 id와 이름이 담긴 "tutors" 와 slot 번호, 강사가 30분 단위로 수업 시작가능한 시간과 tutor id를 저장한 "slots"로 구성되어 있어야 합니다.
 
 결과 출력
