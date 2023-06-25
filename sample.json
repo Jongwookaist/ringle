@@ -1,0 +1,139 @@
+{
+    "tutors": [
+        {
+            "id": "t1",
+            "name": "Tutor 1"
+        },
+        {
+            "id": "t2",
+            "name": "Tutor 2"
+        },
+        {
+            "id": "t3",
+            "name": "Tutor 3"
+        },
+        {
+            "id": "t4",
+            "name": "Tutor 4"
+        },
+        {
+            "id": "t5",
+            "name": "Tutor 5"
+        },
+        {
+            "id": "t6",
+            "name": "Tutor 6"
+        },
+        {
+            "id": "t7",
+            "name": "Tutor 7"
+        }
+    ],
+    "slots": [
+        {
+            "id": "s1",
+            "start_time": "2023-06-08T19:30:00Z",
+            "tutor_id": "t1"
+        },
+        {
+            "id": "s2",
+            "start_time": "2023-06-08T20:30:00Z",
+            "tutor_id": "t1"
+        },
+        {
+            "id": "s3",
+            "start_time": "2023-06-08T20:00:00Z",
+            "tutor_id": "t1"
+        },
+        {
+            "id": "s4",
+            "start_time": "2023-06-09T04:00:00Z",
+            "tutor_id": "t2"
+        },
+        {
+            "id": "s5",
+            "start_time": "2023-06-07T06:30:00Z",
+            "tutor_id": "t2"
+        },
+        {
+            "id": "s6",
+            "start_time": "2023-06-09T03:00:00Z",
+            "tutor_id": "t2"
+        },
+        {
+            "id": "s7",
+            "start_time": "2023-06-08T14:00:00Z",
+            "tutor_id": "t3"
+        },
+        {
+            "id": "s8",
+            "start_time": "2023-06-08T08:00:00Z",
+            "tutor_id": "t3"
+        },
+        {
+            "id": "s9",
+            "start_time": "2023-06-08T21:00:00Z",
+            "tutor_id": "t3"
+        },
+        {
+            "id": "s10",
+            "start_time": "2023-06-08T21:30:00Z",
+            "tutor_id": "t4"
+        },
+        {
+            "id": "s11",
+            "start_time": "2023-06-08T01:00:00Z",
+            "tutor_id": "t4"
+        },
+        {
+            "id": "s12",
+            "start_time": "2023-06-08T22:00:00Z",
+            "tutor_id": "t4"
+        },
+        {
+            "id": "s13",
+            "start_time": "2023-06-09T01:00:00Z",
+            "tutor_id": "t5"
+        },
+        {
+            "id": "s14",
+            "start_time": "2023-06-09T06:30:00Z",
+            "tutor_id": "t5"
+        },
+        {
+            "id": "s15",
+            "start_time": "2023-06-09T12:00:00Z",
+            "tutor_id": "t5"
+        },
+        {
+            "id": "s16",
+            "start_time": "2023-06-09T05:30:00Z",
+            "tutor_id": "t6"
+        },
+        {
+            "id": "s17",
+            "start_time": "2023-06-09T05:00:00Z",
+            "tutor_id": "t6"
+        },
+        {
+            "id": "s18",
+            "start_time": "2023-06-09T06:30:00Z",
+            "tutor_id": "t6"
+        },
+        {
+            "id": "s19",
+            "start_time": "2023-06-09T02:00:00Z",
+            "tutor_id": "t7"
+        },
+        {
+            "id": "s20",
+            "start_time": "2023-06-08T07:00:00Z",
+            "tutor_id": "t7"
+        },
+        {
+            "id": "s21",
+            "start_time": "2023-06-09T09:30:00Z",
+            "tutor_id": "t7"
+        }
+    ]
+}
