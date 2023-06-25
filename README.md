@@ -23,19 +23,19 @@ slot id, 시작 시간, 강사 ID, 강사 이름
 
 실행 예시 1
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/26ca08b6-937f-4b80-89eb-1d56e72e8ff4.png/">
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/26ca08b6-937f-4b80-89eb-1d56e72e8ff4/">
 
 
 결과 CSV 파일
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/c8947615-9735-4e67-b17f-6a132125a375.png/">
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/c8947615-9735-4e67-b17f-6a132125a375/">
 
 
 실행 예시 2
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/d1f512aa-fb19-4c27-ba91-77aba14c6e5a.png/">
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/d1f512aa-fb19-4c27-ba91-77aba14c6e5a/">
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/4aa00d12-a89c-47de-a8d0-5dc23854959f.png/">
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/4aa00d12-a89c-47de-a8d0-5dc23854959f/">
 
 (실행 예시2는 fuzzer을 통해 만든 sample.json 파일을 사용함)
 
@@ -43,11 +43,11 @@ slot id, 시작 시간, 강사 ID, 강사 이름
 Fuzzer은 프로그램이 잘 실행되는지 확인하기 위한 다른 프로그램으로 시간 범위(start,end) 와 강사 수, 수업 수를 입력하면 각 강사마다 start 와 end 사이에
 수업 수 만큼 정보를 가진 sample.json 파일을 만듭니다.
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/22467f4c-0518-4184-8c91-2a22f8d66de9.png/">
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/22467f4c-0518-4184-8c91-2a22f8d66de9/">
 
 위의 예시에서는 3명의 강사가 각각 3번의 수업 시간이 가능한 Json 파일을 만듭니다.
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/a45c7412-d3e4-41c6-afd1-712b000c1f60.png/">
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/a45c7412-d3e4-41c6-afd1-712b000c1f60/">
 
 
 참고 사항
