@@ -23,31 +23,32 @@ slot id, 시작 시간, 강사 ID, 강사 이름
 
 실행 예시 1
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/b20e7767-48d5-4e8c-9779-5b9ab08c90b2.png/">
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/26ca08b6-937f-4b80-89eb-1d56e72e8ff4.png/">
+
 
 결과 CSV 파일
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/1b13a22f-aeb9-4b68-b476-ddf50483329c.png/">
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/c8947615-9735-4e67-b17f-6a132125a375.png/">
+
 
 실행 예시 2
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
-![image](https://github.com/Jongwookaist/ringle/assets/96780862/321a4911-ef6c-40af-8a65-b35e177e6f60)
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
-![image](https://github.com/Jongwookaist/ringle/assets/96780862/db4c7895-b12b-441b-9605-6500c7c92a17)
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/d1f512aa-fb19-4c27-ba91-77aba14c6e5a.png/">
+
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/4aa00d12-a89c-47de-a8d0-5dc23854959f.png/">
 
 (실행 예시2는 fuzzer을 통해 만든 sample.json 파일을 사용함)
 
 
 Fuzzer은 프로그램이 잘 실행되는지 확인하기 위한 다른 프로그램으로 시간 범위(start,end) 와 강사 수, 수업 수를 입력하면 각 강사마다 start 와 end 사이에
 수업 수 만큼 정보를 가진 sample.json 파일을 만듭니다.
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
-![image](https://github.com/Jongwookaist/ringle/assets/96780862/1348c044-2516-4bd1-b134-a235e91b40df)
 
-<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/e2194307-986a-4ba6-9c36-1903ca9d12dc.png/">
-![image](https://github.com/Jongwookaist/ringle/assets/96780862/d0be2f3f-6e0b-4206-86fb-4e54afa17c71)
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/22467f4c-0518-4184-8c91-2a22f8d66de9.png/">
+
+<img width="80%" src="https://github.com/Jongwookaist/ringle/assets/96780862/a45c7412-d3e4-41c6-afd1-712b000c1f60.png/">
 
 
 참고 사항
+
 json 파일의 경로는 프로그램의 파일과 같은 디렉토리에 위치해야 하며 tutor.csv 파일은 같은 폴더에 없어야 만들어 집니다.
 프로그램을 실행 할 때 제대로 된 인자를 입력하지 않으면 실행되지 않습니다. 인자 개수를 확인해주세요.
 fuzzer의 입력값을 줄 때 기간을 길게 설정하고 수업 수가 적으면 수업이 이어진 json 파일이 나올 확률이 낮아집니다.
