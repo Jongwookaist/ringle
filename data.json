@@ -1,1 +1,0 @@
-{"tutors": [{"id": "t1", "name": "Foo"}, {"id": "t2", "name": "Boo"}], "slots": [{"id": "s1", "start_time": "2023-06-07T12:00:00Z", "tutor_id": "t1"}, {"id": "s2", "start_time": "2023-06-07T12:00:00Z", "tutor_id": "t2"}, {"id": "s3", "start_time": "2023-06-07T12:30:00Z", "tutor_id": "t1"}]}
